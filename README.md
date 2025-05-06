@@ -1,6 +1,5 @@
 # Dataset-Gabungan
-   ```phython
-   import pandas as pd
+      ```phython 
+      import pandas as pd
+Kode di atas digunakan untuk mengimpor pustaka Pandas dengan alias pd, yang merupakan pustaka Python populer untuk manipulasi dan analisis data, khususnya data tabular seperti file CSV, Excel, atau database; penggunaan alias pd mempermudah pemanggilan fungsi-fungsi Pandas dalam proses pengolahan data
 
-
-Kode ini mengimpor library pandas dan memberikan alias pd.pandas adalah library Python yang digunakan untuk membaca, mengolah, dan menganalisis data berbentuk tabel (seperti file CSV, Excel, atau database). Dengan alias pd, kamu bisa menuliskan fungsi pandas dengan lebih singkat, contohnya: pd.read_csv().
